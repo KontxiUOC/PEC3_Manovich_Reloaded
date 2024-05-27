@@ -28,8 +28,6 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 - [Adobe Aero](https://www.adobe.com/products/aero.html)
 
 - Manovich, Lev. (2013). "El software toma el mando", Capítulos 4 y 5. Barcelona: Editorial UOC.
-  
-- ![Imagen de ejemplo de Adobe Aero](https://adobeaero.us/assets/images/screenshots/Aero-Mobile-AR-Experience.jpg)
 
 ---
 
