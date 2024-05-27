@@ -1,6 +1,8 @@
 # PEC3: Manovich Reloaded
 
-## Autora: Concepción Sánchez
+# Autora: Concepción Sánchez
+
+# Fecha: 27/05/2024
 
 ### Introducción
 
