@@ -115,7 +115,7 @@ Minecraft Education Edition demuestra cómo los videojuegos pueden ser una herra
 
 - [Minecraft Education Edition](https://education.minecraft.net/)
 - Manovich, Lev. (2013). "El software toma el mando", Capítulos 4 y 5. Barcelona: Editorial UOC.
-```
+
 
 Este informe en formato Markdown proporciona un análisis detallado y original de los casos de Adobe Aero y Minecraft Education Edition, aplicando los conceptos de hibridación de medios de Lev Manovich y asegurando una extensión de aproximadamente 500 palabras para cada ejemplo.
 
