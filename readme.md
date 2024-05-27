@@ -15,6 +15,8 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 
  [Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=FEa2diI2qgA)
 
+ [![Comprehensive Markdown Crash Course](https://markdown-videos.deta.dev/youtube/FEa2diI2qgA)](https://www.youtube.com/watch?v=AyZPHZwBYIc)
+
 **Descripción del Caso:** Adobe Aero es una aplicación desarrollada por Adobe que permite a los diseñadores gráficos crear y visualizar experiencias de realidad aumentada (RA) sin necesidad de conocimientos avanzados de programación. Aero facilita la creación de escenas interactivas en 3D que pueden ser superpuestas en el mundo real utilizando dispositivos móviles. La plataforma integra herramientas de diseño conocidas de Adobe, como Photoshop e Illustrator, permitiendo a los diseñadores importar sus gráficos y convertirlos en experiencias interactivas.
 
 **Medios Incorporados:** Adobe Aero combina el diseño gráfico, la realidad aumentada y la tecnología de dispositivos móviles. Los usuarios pueden importar elementos gráficos desde Photoshop o Illustrator, y luego utilizar Aero para posicionar y animar estos elementos en un entorno tridimensional que interactúa con el espacio físico a través de la cámara de un dispositivo móvil.
