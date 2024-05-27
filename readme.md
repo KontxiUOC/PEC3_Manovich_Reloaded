@@ -11,7 +11,7 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 
  ### Caso 1: Adobe Aero - Realidad Aumentada y Diseño Gráfico
 
- [![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)]([https://www.youtube.com/watch?v=AyZPHZwBYIc]) "Título alternativo")
+ [![Comprehensive Markdown Crash Course]]([https://www.youtube.com/watch?v=AyZPHZwBYIc]) "Título alternativo")
 
  [Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=AyZPHZwBYIc)
 
