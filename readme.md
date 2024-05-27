@@ -11,21 +11,13 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 
  ### Caso 1: Adobe Aero - Realidad Aumentada y Diseño Gráfico
 
-**Descripción del Caso:**
+**Descripción del Caso:** Adobe Aero es una aplicación desarrollada por Adobe que permite a los diseñadores gráficos crear y visualizar experiencias de realidad aumentada (RA) sin necesidad de conocimientos avanzados de programación. Aero facilita la creación de escenas interactivas en 3D que pueden ser superpuestas en el mundo real utilizando dispositivos móviles. La plataforma integra herramientas de diseño conocidas de Adobe, como Photoshop e Illustrator, permitiendo a los diseñadores importar sus gráficos y convertirlos en experiencias interactivas.
 
-Adobe Aero es una aplicación desarrollada por Adobe que permite a los diseñadores gráficos crear y visualizar experiencias de realidad aumentada (RA) sin necesidad de conocimientos avanzados de programación. Aero facilita la creación de escenas interactivas en 3D que pueden ser superpuestas en el mundo real utilizando dispositivos móviles. La plataforma integra herramientas de diseño conocidas de Adobe, como Photoshop e Illustrator, permitiendo a los diseñadores importar sus gráficos y convertirlos en experiencias interactivas.
+**Medios Incorporados:** Adobe Aero combina el diseño gráfico, la realidad aumentada y la tecnología de dispositivos móviles. Los usuarios pueden importar elementos gráficos desde Photoshop o Illustrator, y luego utilizar Aero para posicionar y animar estos elementos en un entorno tridimensional que interactúa con el espacio físico a través de la cámara de un dispositivo móvil.
 
-**Medios Incorporados:**
+**Tipo de Hibridación:** Este caso ejemplifica una hibridación de medios visuales (diseño gráfico) y tecnologías interactivas (RA). Según Manovich, esta integración crea una nueva plataforma de medios donde las capacidades de diseño tradicionales se expanden para incluir interacciones espaciales en el mundo real. La hibridación en Aero permite que el arte gráfico salga de la pantalla y se integre en el entorno físico, transformando la percepción y la interacción del usuario con el arte.
 
-Adobe Aero combina el diseño gráfico, la realidad aumentada y la tecnología de dispositivos móviles. Los usuarios pueden importar elementos gráficos desde Photoshop o Illustrator, y luego utilizar Aero para posicionar y animar estos elementos en un entorno tridimensional que interactúa con el espacio físico a través de la cámara de un dispositivo móvil.
-
-**Tipo de Hibridación:**
-
-Este caso ejemplifica una hibridación de medios visuales (diseño gráfico) y tecnologías interactivas (RA). Según Manovich, esta integración crea una nueva plataforma de medios donde las capacidades de diseño tradicionales se expanden para incluir interacciones espaciales en el mundo real. La hibridación en Aero permite que el arte gráfico salga de la pantalla y se integre en el entorno físico, transformando la percepción y la interacción del usuario con el arte.
-
-**Análisis con las gafas de Manovich:**
-
-Lev Manovich sugiere que la hibridación de medios ocurre cuando se combinan dos o más formas de medios para crear algo nuevo, que no es meramente una suma de sus partes, sino una entidad completamente nueva que ofrece nuevas capacidades y experiencias. Adobe Aero cumple con esta definición al integrar el diseño gráfico y la realidad aumentada en una plataforma accesible y poderosa. Esta hibridación no solo remedia los elementos del diseño gráfico en un contexto tridimensional, sino que también crea un nuevo lenguaje visual interactivo, donde los diseñadores pueden manipular y experimentar con sus creaciones en el espacio físico.
+**Análisis con las gafas de Manovich:** Lev Manovich sugiere que la hibridación de medios ocurre cuando se combinan dos o más formas de medios para crear algo nuevo, que no es meramente una suma de sus partes, sino una entidad completamente nueva que ofrece nuevas capacidades y experiencias. Adobe Aero cumple con esta definición al integrar el diseño gráfico y la realidad aumentada en una plataforma accesible y poderosa. Esta hibridación no solo remedia los elementos del diseño gráfico en un contexto tridimensional, sino que también crea un nuevo lenguaje visual interactivo, donde los diseñadores pueden manipular y experimentar con sus creaciones en el espacio físico.
 
 **Valoraciones Personales y Bibliografía:**
 
