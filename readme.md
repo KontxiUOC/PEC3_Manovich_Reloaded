@@ -1,9 +1,9 @@
 
- # PEC3: Manovich Reloaded
+# PEC3: Manovich Reloaded
 
 ## Autora: Concepción Sánchez
 
- ### Introducción
+### Introducción
 
 En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, siguiendo los principios descritos por Lev Manovich en su obra "El software toma el mando". Analizaremos Adobe Aero y Minecraft Education Edition, ambos representando fusiones innovadoras de tecnologías y prácticas culturales que ilustran cómo la hibridación puede generar nuevas formas de interacción y representación en el entorno digital.
 
@@ -19,9 +19,7 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 
 **Análisis con las gafas de Manovich:** Lev Manovich sugiere que la hibridación de medios ocurre cuando se combinan dos o más formas de medios para crear algo nuevo, que no es meramente una suma de sus partes, sino una entidad completamente nueva que ofrece nuevas capacidades y experiencias. Adobe Aero cumple con esta definición al integrar el diseño gráfico y la realidad aumentada en una plataforma accesible y poderosa. Esta hibridación no solo remedia los elementos del diseño gráfico en un contexto tridimensional, sino que también crea un nuevo lenguaje visual interactivo, donde los diseñadores pueden manipular y experimentar con sus creaciones en el espacio físico.
 
-**Valoraciones Personales y Bibliografía:**
-
-Adobe Aero representa una evolución significativa en el diseño gráfico, ofreciendo a los diseñadores una herramienta poderosa para crear experiencias interactivas y envolventes. La facilidad de uso y la integración con otras herramientas de Adobe lo convierten en una plataforma accesible para una amplia gama de creadores.
+**Valoraciones Personales y Bibliografía:** Adobe Aero representa una evolución significativa en el diseño gráfico, ofreciendo a los diseñadores una herramienta poderosa para crear experiencias interactivas y envolventes. La facilidad de uso y la integración con otras herramientas de Adobe lo convierten en una plataforma accesible para una amplia gama de creadores.
 
 **Referencias:**
 
@@ -33,25 +31,15 @@ Adobe Aero representa una evolución significativa en el diseño gráfico, ofrec
 
 ### Caso 2: Minecraft Education Edition - Educación y Videojuegos
 
-**Descripción del Caso:**
+**Descripción del Caso:** Minecraft Education Edition es una versión especial del popular videojuego Minecraft, diseñada específicamente para su uso en entornos educativos. Esta plataforma permite a los profesores utilizar el juego como una herramienta educativa para enseñar diversas materias, desde matemáticas y ciencias hasta historia y arte. Los estudiantes pueden colaborar en proyectos, explorar conceptos académicos en un entorno interactivo, y desarrollar habilidades de resolución de problemas y pensamiento crítico.
 
-Minecraft Education Edition es una versión especial del popular videojuego Minecraft, diseñada específicamente para su uso en entornos educativos. Esta plataforma permite a los profesores utilizar el juego como una herramienta educativa para enseñar diversas materias, desde matemáticas y ciencias hasta historia y arte. Los estudiantes pueden colaborar en proyectos, explorar conceptos académicos en un entorno interactivo, y desarrollar habilidades de resolución de problemas y pensamiento crítico.
+**Medios Incorporados:** Minecraft Education Edition combina el videojuego con elementos educativos y colaborativos. La plataforma utiliza las mecánicas de juego de Minecraft, como la construcción y la exploración, y las adapta para crear actividades educativas interactivas. También incorpora herramientas para profesores, como lecciones preconstruidas y la capacidad de monitorear el progreso de los estudiantes.
 
-**Medios Incorporados:**
+**Tipo de Hibridación:** Este caso representa una hibridación entre el entretenimiento (videojuegos) y la educación. Según Manovich, esta hibridación no solo remedia el contenido educativo al contexto del videojuego, sino que también crea un nuevo medio educativo interactivo que involucra a los estudiantes de manera más efectiva. La combinación de juego y aprendizaje en Minecraft Education Edition ejemplifica cómo los medios interactivos pueden transformar la pedagogía tradicional.
 
-Minecraft Education Edition combina el videojuego con elementos educativos y colaborativos. La plataforma utiliza las mecánicas de juego de Minecraft, como la construcción y la exploración, y las adapta para crear actividades educativas interactivas. También incorpora herramientas para profesores, como lecciones preconstruidas y la capacidad de monitorear el progreso de los estudiantes.
+ **Análisis con las gafas de Manovich:** Manovich destaca que la hibridación no es simplemente la combinación de diferentes tecnologías, sino la creación de nuevas experiencias que no serían posibles en los medios originales por separado. Minecraft Education Edition encarna esta idea al transformar el juego en una plataforma educativa. Los estudiantes no solo consumen contenido educativo, sino que interactúan activamente con él, construyendo y explorando conceptos de una manera que tradicionalmente no sería posible en un aula convencional.
 
-**Tipo de Hibridación:**
-
-Este caso representa una hibridación entre el entretenimiento (videojuegos) y la educación. Según Manovich, esta hibridación no solo remedia el contenido educativo al contexto del videojuego, sino que también crea un nuevo medio educativo interactivo que involucra a los estudiantes de manera más efectiva. La combinación de juego y aprendizaje en Minecraft Education Edition ejemplifica cómo los medios interactivos pueden transformar la pedagogía tradicional.
-
- **Análisis con las gafas de Manovich:**
-
-Manovich destaca que la hibridación no es simplemente la combinación de diferentes tecnologías, sino la creación de nuevas experiencias que no serían posibles en los medios originales por separado. Minecraft Education Edition encarna esta idea al transformar el juego en una plataforma educativa. Los estudiantes no solo consumen contenido educativo, sino que interactúan activamente con él, construyendo y explorando conceptos de una manera que tradicionalmente no sería posible en un aula convencional.
-
-**Valoraciones Personales y Bibliografía:**
-
-Minecraft Education Edition demuestra cómo los videojuegos pueden ser una herramienta poderosa para la educación, proporcionando un entorno interactivo y colaborativo que motiva a los estudiantes y facilita el aprendizaje de manera lúdica. La flexibilidad y la capacidad de personalización de la plataforma la convierten en una valiosa herramienta educativa.
+**Valoraciones Personales y Bibliografía:** Minecraft Education Edition demuestra cómo los videojuegos pueden ser una herramienta poderosa para la educación, proporcionando un entorno interactivo y colaborativo que motiva a los estudiantes y facilita el aprendizaje de manera lúdica. La flexibilidad y la capacidad de personalización de la plataforma la convierten en una valiosa herramienta educativa.
 
 **Referencias:**
 
