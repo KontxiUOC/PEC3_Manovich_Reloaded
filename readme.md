@@ -56,7 +56,7 @@ En este ensayo, exploraremos dos ejemplos recientes de hibridación de medios, s
 
 ## Caso 1: Adobe Aero - Realidad Aumentada y Diseño Gráfico
 
-![Adobe Aero AR Example](https://www.adobe.com/content/dam/cc/us/en/products/aero/overview/adobe-aero-max-illustration.png)
+![Adobe Aero AR Example](https://upload.wikimedia.org/wikipedia/commons/9/97/Adobe_Aero_2021_logo.png)
 
 <https://www.adobe.com/content/dam/cc/us/en/products/aero/overview/adobe-aero-max-illustration.png>
 
